@@ -45,7 +45,7 @@ The workflow uses these environment variables (configurable in the workflow file
 | Variable | Default | Description |
 |----------|---------|-------------|
 | `LIGHTSAIL_DEPLOY_DIR` | `/home/ec2-user/html` | Target directory on the Lightsail instance |
-| `NODE_VERSION` | `18` | Node.js version for building |
+| `NODE_VERSION` | `24` | Node.js version for building |
 
 To change the deployment directory, edit the workflow file:
 

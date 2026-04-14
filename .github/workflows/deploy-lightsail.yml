@@ -10,7 +10,7 @@ on:
 
 env:
   LIGHTSAIL_DEPLOY_DIR: '/home/ec2-user/html'
-  NODE_VERSION: '18'
+  NODE_VERSION: '24'
 
 jobs:
   build-and-deploy:
